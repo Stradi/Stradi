@@ -1,5 +1,6 @@
-### Hi there 👋
-I press buttons and write weird words in a text editor. I mostly use some alien languages like JavaScript, TypeScript and some alien crafts like React, Next.js and Astro.
+### 👋
+
+Frontend developer. Master of `⌘+Z` and `git revert`. Professional dumbass. Love using "etc" when I can't find more examples. Love Next.js, Tailwind CSS, Bun, Rust etc.
 
 You can learn more about me at [batin.sh](https://batin.sh/about).
 

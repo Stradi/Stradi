@@ -1,6 +1,6 @@
 ### 👋
 
-Frontend developer. Master of `⌘+Z` and `git revert`. Professional dumbass. Love using "etc" when I can't find more examples. Love Next.js, Tailwind CSS, Bun, Rust etc.
+Fullstack developer. Love Next.js, Tailwind CSS, Bun, Rust, Go etc.
 
 You can learn more about me at [batin.sh](https://batin.sh/about).
 
